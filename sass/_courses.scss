@@ -1,0 +1,7 @@
+
+
+  .courses{
+    img:hover{
+        @include max( $image-sithe);
+    }
+}
